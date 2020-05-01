@@ -1,0 +1,7 @@
+CMakeFiles/
+read_write
+ble_scan
+*.cmake
+*.swo
+*CMakeCache*
+*Makefile*
